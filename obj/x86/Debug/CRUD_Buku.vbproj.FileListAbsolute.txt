@@ -1,0 +1,9 @@
+E:\Visual Studio 2010\Projects\CRUD_Buku\CRUD_Buku\obj\x86\Debug\WindowsApplication1.Perpustakaan.resources
+E:\Visual Studio 2010\Projects\CRUD_Buku\CRUD_Buku\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Visual Studio 2010\Projects\CRUD_Buku\CRUD_Buku\obj\x86\Debug\CRUD_Buku.vbproj.GenerateResource.Cache
+E:\Visual Studio 2010\Projects\CRUD_Buku\CRUD_Buku\bin\Debug\CRUD_Buku.exe
+E:\Visual Studio 2010\Projects\CRUD_Buku\CRUD_Buku\bin\Debug\CRUD_Buku.pdb
+E:\Visual Studio 2010\Projects\CRUD_Buku\CRUD_Buku\bin\Debug\CRUD_Buku.xml
+E:\Visual Studio 2010\Projects\CRUD_Buku\CRUD_Buku\obj\x86\Debug\CRUD_Buku.exe
+E:\Visual Studio 2010\Projects\CRUD_Buku\CRUD_Buku\obj\x86\Debug\CRUD_Buku.xml
+E:\Visual Studio 2010\Projects\CRUD_Buku\CRUD_Buku\obj\x86\Debug\CRUD_Buku.pdb
